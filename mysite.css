@@ -1,0 +1,115 @@
+body{
+margin: 0;
+text-align: center;
+line-height: 2;
+color: #40514E;
+}
+
+h1{
+  font-family: 'Aclonica', sans-serif;
+margin: 50px auto 0 auto;
+  font-size: 90px;
+color: red;
+
+}
+h2{
+  font-family: 'Syncopate', sans-serif;
+  font-size: 20px;
+  color: blue;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.top{
+background-color: powderblue;
+padding-top: 70px;
+}
+h3{
+  font-family: 'Syncopate', sans-serif;
+  color: #11999E
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+background-color: powderblue;
+padding: 50px 0 20px;
+}
+.great{
+  text-decoration: underline;
+}
+a{
+  font-family: 'Syncopate', sans-serif;
+  color: #11999E;
+  margin: 0 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: red;
+}
+.bottom-c{
+  position: absolute;
+  top: 350px;
+}
+.topc{
+  position: absolute;
+top: 60px;
+left: 1075px
+}
+.skill-row{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+.html123{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.greatmower{
+  width: 25%;
+  float: left;
+margin-right: 30px;
+padding-bottom: 20px;
+}
+.intro{
+width: 30%;
+margin:auto;
+}
+hr {
+  border: dotted powderblue 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.contactme{
+  width: 30%;
+  margin: 40px auto;
+}
+.btn {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	background-color:#bab1ba;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.76rem;
+  padding: 20px 0;
+}
